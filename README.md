@@ -2,9 +2,9 @@
 
 yeah
 
-Works on Windows XP and newer. Made with Visual Studio 2010 Express
+[Preview](https://twitter.com/idkwuu/status/1309573669677563905) | [Download](https://github.com/idkwuu/MichaelPeroxaan/releases/tag/pog)
 
-Download in the Releases page
+Works on Windows XP and newer. Made with Visual Studio 2010 Express
 
 ### Features
 
